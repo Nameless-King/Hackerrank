@@ -1,8 +1,4 @@
-./Fortran/ThirtyDaysCodingChallenge/a.exe
-./C++/Introduction/a.exe
-./C++/Strings/a.exe
-./C++/ThirtyDaysOfCode/a.exe
-./C/Introduction/a.exe
-./C/ThirtyDaysOfCode/a.exe
-./Java/Introduction/IntroductionJava.iml
-./Java/Introduction/.idea/
+#Compiled source#
+#################
+*.class
+*.exe
